@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Abongile Valashiya Portfolio</title>
+    <title>Abongile Portfolio</title>
 </head>
 <body>
 
     <header>
-        <h1>Abongile Abbey Valashiya</h1>
-        <p>Email: avalashiya90@gmail.com | Contact: +27763959754</p>
+        <h1>Abongile </h1>
+        <p>Email:  | Contact: </p>
     </header>
 
     <section id="skills">
@@ -29,7 +29,7 @@
     <section id="education">
         <h2>Education and Training</h2>
         <article>
-            <h3>King Edward High School</h3>
+            <h3>High School</h3>
             <p>Matric (Senior Certificate with Accounting and Mathematics) 2009</p>
         </article>
         <article>
@@ -37,7 +37,7 @@
             <p>Short Course in Monitoring and Evaluation and Reporting, September 2021</p>
         </article>
         <article>
-            <h3>University of the Free State</h3>
+            <h3>University </h3>
             <p>BCom Accounting, 2012</p>
         </article>
          <article>
